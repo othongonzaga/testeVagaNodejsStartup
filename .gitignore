@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
